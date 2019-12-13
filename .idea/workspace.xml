@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="90b4aec7-734e-442f-a29d-fc3cb3b18c59" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectId" id="1UvShtX5pki1fFYXO2j9JyPvWAG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\SnakeGame\Snake-java" />
+      <recent name="E:\SnakeGame" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainWindow" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="MainWindow" />
+      <module name="SnakeGame" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90b4aec7-734e-442f-a29d-fc3cb3b18c59" name="Default Changelist" comment="" />
+      <created>1576235697307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576235697307</updated>
+      <workItem from="1576235705193" duration="9363000" />
+      <workItem from="1576257507239" duration="6000" />
+      <workItem from="1576266946094" duration="772000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="232" y="149" key="#Notifications" timestamp="1576267276210">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="232" y="149" key="#Notifications/0.0.1280.984@0.0.1280.984" timestamp="1576267276210" />
+    <state x="94" y="146" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576249272067">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="94" y="146" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.984@0.0.1280.984" timestamp="1576249272067" />
+    <state x="420" y="196" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1576246537559">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="420" y="196" key="#com.intellij.ide.macro.MacrosDialog/0.0.1280.984@0.0.1280.984" timestamp="1576246537559" />
+    <state x="445" y="200" key="#com.intellij.ide.util.MemberChooser" timestamp="1576248890909">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="445" y="200" key="#com.intellij.ide.util.MemberChooser/0.0.1280.984@0.0.1280.984" timestamp="1576248890909" />
+    <state x="369" y="275" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1576246528154">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="369" y="275" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.984@0.0.1280.984" timestamp="1576246528154" />
+    <state x="324" y="226" key="FileChooserDialogImpl" timestamp="1576267126141">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="324" y="226" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1576267126141" />
+    <state x="474" y="407" width="356" height="170" key="Github.CreateGistDialog" timestamp="1576256484548">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="474" y="407" width="356" height="170" key="Github.CreateGistDialog/0.0.1280.984@0.0.1280.984" timestamp="1576256484548" />
+    <state width="618" height="263" key="GridCell.Tab.0.bottom" timestamp="1576257479174">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="618" height="263" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1576257479174" />
+    <state width="618" height="263" key="GridCell.Tab.0.center" timestamp="1576257479173">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="618" height="263" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1576257479173" />
+    <state width="618" height="263" key="GridCell.Tab.0.left" timestamp="1576257479173">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="618" height="263" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1576257479173" />
+    <state width="618" height="263" key="GridCell.Tab.0.right" timestamp="1576257479173">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="618" height="263" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1576257479173" />
+    <state x="141" y="133" key="SettingsEditor" timestamp="1576267205221">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="141" y="133" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1576267205221" />
+    <state x="232" y="224" key="Vcs.Push.Dialog.v2" timestamp="1576256561203">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="232" y="224" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1576256561203" />
+    <state x="335" y="314" key="com.intellij.ide.util.TipDialog" timestamp="1576269320923">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="335" y="314" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1576269320923" />
+    <state x="449" y="408" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576267387938">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="449" y="408" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.984@0.0.1280.984" timestamp="1576267387938" />
+    <state x="361" y="403" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1576256529747">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="361" y="403" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1280.984@0.0.1280.984" timestamp="1576256529747" />
+  </component>
+</project>
