@@ -72,6 +72,9 @@
       <workItem from="1576235705193" duration="9363000" />
       <workItem from="1576257507239" duration="6000" />
       <workItem from="1576266946094" duration="772000" />
+      <workItem from="1576269317735" duration="1861000" />
+      <workItem from="1576317149743" duration="5958000" />
+      <workItem from="1576323220918" duration="1056000" />
     </task>
     <servers />
   </component>
@@ -79,10 +82,11 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="232" y="149" key="#Notifications" timestamp="1576267276210">
-      <screen x="0" y="0" width="1280" height="984" />
+    <state x="296" y="155" key="#Notifications" timestamp="1576317200813">
+      <screen x="78" y="0" width="1202" height="1024" />
     </state>
     <state x="232" y="149" key="#Notifications/0.0.1280.984@0.0.1280.984" timestamp="1576267276210" />
+    <state x="296" y="155" key="#Notifications/78.0.1202.1024@78.0.1202.1024" timestamp="1576317200813" />
     <state x="94" y="146" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576249272067">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
@@ -91,10 +95,11 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="420" y="196" key="#com.intellij.ide.macro.MacrosDialog/0.0.1280.984@0.0.1280.984" timestamp="1576246537559" />
-    <state x="445" y="200" key="#com.intellij.ide.util.MemberChooser" timestamp="1576248890909">
-      <screen x="0" y="0" width="1280" height="984" />
+    <state x="496" y="208" key="#com.intellij.ide.util.MemberChooser" timestamp="1576323454839">
+      <screen x="78" y="0" width="1202" height="1024" />
     </state>
     <state x="445" y="200" key="#com.intellij.ide.util.MemberChooser/0.0.1280.984@0.0.1280.984" timestamp="1576248890909" />
+    <state x="496" y="208" key="#com.intellij.ide.util.MemberChooser/78.0.1202.1024@78.0.1202.1024" timestamp="1576323454839" />
     <state x="369" y="275" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1576246528154">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
@@ -107,22 +112,26 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="474" y="407" width="356" height="170" key="Github.CreateGistDialog/0.0.1280.984@0.0.1280.984" timestamp="1576256484548" />
-    <state width="618" height="263" key="GridCell.Tab.0.bottom" timestamp="1576257479174">
-      <screen x="0" y="0" width="1280" height="984" />
+    <state width="1159" height="102" key="GridCell.Tab.0.bottom" timestamp="1576324347810">
+      <screen x="78" y="0" width="1202" height="1024" />
     </state>
-    <state width="618" height="263" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1576257479174" />
-    <state width="618" height="263" key="GridCell.Tab.0.center" timestamp="1576257479173">
-      <screen x="0" y="0" width="1280" height="984" />
+    <state width="618" height="263" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1576272060358" />
+    <state width="1159" height="102" key="GridCell.Tab.0.bottom/78.0.1202.1024@78.0.1202.1024" timestamp="1576324347810" />
+    <state width="1159" height="102" key="GridCell.Tab.0.center" timestamp="1576324347809">
+      <screen x="78" y="0" width="1202" height="1024" />
     </state>
-    <state width="618" height="263" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1576257479173" />
-    <state width="618" height="263" key="GridCell.Tab.0.left" timestamp="1576257479173">
-      <screen x="0" y="0" width="1280" height="984" />
+    <state width="618" height="263" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1576272060358" />
+    <state width="1159" height="102" key="GridCell.Tab.0.center/78.0.1202.1024@78.0.1202.1024" timestamp="1576324347809" />
+    <state width="1159" height="102" key="GridCell.Tab.0.left" timestamp="1576324347809">
+      <screen x="78" y="0" width="1202" height="1024" />
     </state>
-    <state width="618" height="263" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1576257479173" />
-    <state width="618" height="263" key="GridCell.Tab.0.right" timestamp="1576257479173">
-      <screen x="0" y="0" width="1280" height="984" />
+    <state width="618" height="263" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1576272060358" />
+    <state width="1159" height="102" key="GridCell.Tab.0.left/78.0.1202.1024@78.0.1202.1024" timestamp="1576324347809" />
+    <state width="1159" height="102" key="GridCell.Tab.0.right" timestamp="1576324347810">
+      <screen x="78" y="0" width="1202" height="1024" />
     </state>
-    <state width="618" height="263" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1576257479173" />
+    <state width="618" height="263" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1576272060358" />
+    <state width="1159" height="102" key="GridCell.Tab.0.right/78.0.1202.1024@78.0.1202.1024" timestamp="1576324347810" />
     <state x="141" y="133" key="SettingsEditor" timestamp="1576267205221">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
@@ -131,10 +140,11 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="232" y="224" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1576256561203" />
-    <state x="335" y="314" key="com.intellij.ide.util.TipDialog" timestamp="1576269320923">
-      <screen x="0" y="0" width="1280" height="984" />
+    <state x="393" y="327" key="com.intellij.ide.util.TipDialog" timestamp="1576323222056">
+      <screen x="78" y="0" width="1202" height="1024" />
     </state>
     <state x="335" y="314" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1576269320923" />
+    <state x="393" y="327" key="com.intellij.ide.util.TipDialog/78.0.1202.1024@78.0.1202.1024" timestamp="1576323222056" />
     <state x="449" y="408" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576267387938">
       <screen x="0" y="0" width="1280" height="984" />
     </state>

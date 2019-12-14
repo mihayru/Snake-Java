@@ -10,5 +10,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Snake-java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/snake_part3-final-" vcs="Git" />
   </component>
 </project>
